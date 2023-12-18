@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @AntonioCorr
-- 👀 Currently focused on learning web development.
-- 🌱 I’m currently studying CS at Umass Amherst & learning web development with Leon Noel's #100Devs catchup crew.
-- 💞️ I’m looking to collaborate on anything I can learn from..
+- 🌱 Studying CS @ UMass Amhersy
 - 📫 Reach me at bcorreia2002@gmail.com
