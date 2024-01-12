@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AntonioCorr
-- 🌱 Studying CS @ UMass Amherst
+- 🌱 Studying Informatics & CS @ UMass Amherst
 - 📫 Reach me at bcorreia2002@gmail.com
